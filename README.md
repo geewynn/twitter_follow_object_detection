@@ -73,3 +73,5 @@ for detection in detections:
 - 6th loads the model.
 - 7th line trys out the custom image detector on the test data, and prints out the name, probability and box points.
 
+Detected File
+![detection](https://github.com/geewynn/twitter_follow_object_detection/blob/master/detect-5.png)
