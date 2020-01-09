@@ -1,7 +1,7 @@
 <annotation>
 	<folder>twitter computerr vision challenge</folder>
-	<filename>Screen Shot 2019-10-24 at 7.00.07 PM.png</filename>
-	<path>/home/godwin/Desktop/challenge/twitter computerr vision challenge/Screen Shot 2019-10-24 at 7.00.07 PM.png</path>
+	<filename>1.png</filename>
+	<path>/home/godwin/Desktop/twitter computerr vision challenge/1.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,111 +12,111 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>follow button</name>
+		<name>follow</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1054</xmin>
-			<ymin>106</ymin>
-			<xmax>1286</xmax>
-			<ymax>198</ymax>
+			<xmin>1032</xmin>
+			<ymin>101</ymin>
+			<xmax>1294</xmax>
+			<ymax>203</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>follow button</name>
+		<name>follow</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1041</xmin>
-			<ymin>306</ymin>
-			<xmax>1273</xmax>
-			<ymax>398</ymax>
+			<xmin>1033</xmin>
+			<ymin>308</ymin>
+			<xmax>1295</xmax>
+			<ymax>410</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>follow button</name>
+		<name>follow</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1050</xmin>
-			<ymin>486</ymin>
-			<xmax>1282</xmax>
-			<ymax>578</ymax>
+			<xmin>1033</xmin>
+			<ymin>477</ymin>
+			<xmax>1295</xmax>
+			<ymax>579</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>follow button</name>
+		<name>follow</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1048</xmin>
-			<ymin>614</ymin>
-			<xmax>1280</xmax>
-			<ymax>706</ymax>
+			<xmin>1037</xmin>
+			<ymin>610</ymin>
+			<xmax>1299</xmax>
+			<ymax>712</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>follow button</name>
+		<name>follow</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1042</xmin>
-			<ymin>822</ymin>
-			<xmax>1274</xmax>
-			<ymax>914</ymax>
+			<xmin>1030</xmin>
+			<ymin>819</ymin>
+			<xmax>1292</xmax>
+			<ymax>921</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>follow button</name>
+		<name>follow</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1046</xmin>
-			<ymin>1061</ymin>
-			<xmax>1278</xmax>
-			<ymax>1153</ymax>
+			<xmin>1030</xmin>
+			<ymin>1060</ymin>
+			<xmax>1292</xmax>
+			<ymax>1162</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>follow button</name>
+		<name>follow</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1039</xmin>
-			<ymin>1267</ymin>
-			<xmax>1271</xmax>
-			<ymax>1359</ymax>
+			<xmin>1033</xmin>
+			<ymin>1263</ymin>
+			<xmax>1295</xmax>
+			<ymax>1365</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>follow button</name>
+		<name>follow</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1045</xmin>
-			<ymin>1470</ymin>
-			<xmax>1277</xmax>
-			<ymax>1562</ymax>
+			<xmin>1031</xmin>
+			<ymin>1466</ymin>
+			<xmax>1293</xmax>
+			<ymax>1568</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>follow button</name>
+		<name>follow</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1043</xmin>
-			<ymin>1671</ymin>
-			<xmax>1275</xmax>
-			<ymax>1763</ymax>
+			<xmin>1032</xmin>
+			<ymin>1672</ymin>
+			<xmax>1294</xmax>
+			<ymax>1774</ymax>
 		</bndbox>
 	</object>
 </annotation>
